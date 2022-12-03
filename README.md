@@ -16,6 +16,10 @@ Bài tập môn React
 [Câu15](https://codepen.io/Tung12012003/pen/PoaKXyg)
 [Câu16](https://codepen.io/Tung12012003/pen/ZERXxBq)
 [Câu17](https://codepen.io/Tung12012003/pen/MWXEXVv)
+[Câu18](https://codepen.io/Tung12012003/pen/xxzyYpa)
+[Câu19](https://codepen.io/Tung12012003/details/oNyaEVR)
+[Câu20](https://codepen.io/Tung12012003/pen/eYKPMmL)
+[Câu21](https://codepen.io/Tung12012003/pen/ZERqxYj)
 ##THỰC HÀNH
 1.[Bài thực hành state-props](https://codesandbox.io/s/bai-tap-state-props-jbru4z)
 2.[Bài thực hành Dự án](https://codesandbox.io/s/baitapduan-42dgif)
