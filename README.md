@@ -1,6 +1,6 @@
- # MyReact     
+  # MyReact     
  Bài tập môn React
- ##lÝ THUYẾT
+  ##lÝ THUYẾT
  1.[Câu1](https://codepen.io/Tung12012003/pen/XWYPMLV)
  2.[Câu3,4](https://codepen.io/Tung12012003/pen/qBKMmqL)
  3.[Câu5](https://codepen.io/Tung12012003/details/RwJexxJ)
