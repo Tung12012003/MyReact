@@ -1,6 +1,6 @@
   # MyReact     
  Bài tập môn React
-  ##lÝ THUYẾT
+  #lÝ THUYẾT
  1.[Câu1](https://codepen.io/Tung12012003/pen/XWYPMLV)
  2.[Câu3,4](https://codepen.io/Tung12012003/pen/qBKMmqL)
  3.[Câu5](https://codepen.io/Tung12012003/details/RwJexxJ)
@@ -20,6 +20,6 @@
  17.[Câu19](https://codepen.io/Tung12012003/details/oNyaEVR)
  18.[Câu20](https://codepen.io/Tung12012003/pen/eYKPMmL)
  19.[Câu21](https://codepen.io/Tung12012003/pen/ZERqxYj)
- ##THỰC HÀNH
+ #THỰC HÀNH
  1.[Bài thực hành state-props](https://codesandbox.io/s/bai-tap-state-props-jbru4z)
  2.[Bài thực hành Dự án]()
