@@ -1,25 +1,44 @@
-  # MyReact     
- Bài tập môn React
-  #lÝ THUYẾT
- 1.[Câu1](https://codepen.io/Tung12012003/pen/XWYPMLV)
- 2.[Câu3,4](https://codepen.io/Tung12012003/pen/qBKMmqL)
- 3.[Câu5](https://codepen.io/Tung12012003/details/RwJexxJ)
- 4.[Câu6](https://codepen.io/Tung12012003/pen/KKeGZrp)
- 5.[Câu7](https://codepen.io/Tung12012003/pen/wvXYpOL)
- 6.[Câu8](https://codepen.io/Tung12012003/pen/BaVOWba)
- 7.[Câu9](https://codepen.io/Tung12012003/pen/vYrggQw)
- 8.[Câu10](https://codepen.io/Tung12012003/pen/XWYMJvQ)
- 9.[Câu11](https://codepen.io/Tung12012003/details/yLEMNRm)
- 10.[Câu12](https://codepen.io/Tung12012003/pen/MWXpqQQ)
- 11.[Câu13](https://codepen.io/Tung12012003/pen/NWzpLvb)
- 12.[Câu14](https://codepen.io/Tung12012003/pen/LYrjMJd)
- 13.[Câu15](https://codepen.io/Tung12012003/pen/PoaKXyg)
- 14.[Câu16](https://codepen.io/Tung12012003/pen/ZERXxBq)
- 15.[Câu17](https://codepen.io/Tung12012003/pen/MWXEXVv)
- 16.[Câu18](https://codepen.io/Tung12012003/pen/xxzyYpa)
- 17.[Câu19](https://codepen.io/Tung12012003/details/oNyaEVR)
- 18.[Câu20](https://codepen.io/Tung12012003/pen/eYKPMmL)
- 19.[Câu21](https://codepen.io/Tung12012003/pen/ZERqxYj)
- #THỰC HÀNH
- 1.[Bài thực hành state-props](https://codesandbox.io/s/bai-tap-state-props-jbru4z)
- 2.[Bài thực hành Dự án]()
+# Bài Thực Hành mon React
+[cau1](https://codepen.io/Tung12012003/pen/XWYPMLV)
+
+[cau3,4](https://codepen.io/Tung12012003/pen/qBKMmqL)
+
+[cau5](https://codepen.io/Tung12012003/pen/RwJexxJ)
+
+[cau6](https://codepen.io/Tung12012003/pen/KKeGZrp)
+
+[cau7](https://codepen.io/Tung12012003/pen/wvXYpOL)
+
+[cau8](https://codepen.io/Tung12012003/details/BaVOWba)
+
+[cau9](https://codesandbox.io/s/cau9-b1og0z)
+
+[cau10](https://codepen.io/Tung12012003/pen/XWYMJvQ)
+
+[cau11](https://codepen.io/Tung12012003/pen/yLEMNRm)
+
+[cau12](https://codepen.io/Tung12012003/pen/MWXpqQQ)
+
+[cau13](https://codepen.io/Tung12012003/pen/NWzpLvb)
+
+[cau14](https://codepen.io/Tung12012003/pen/LYrjMJd)
+
+[cau15](https://codepen.io/Tung12012003/pen/PoaKXyg)
+
+[cau16](https://codepen.io/Tung12012003/pen/ZERXxBq)
+
+[cau17](https://codepen.io/Tung12012003/pen/MWXEXVv)
+
+[cau18](https://codepen.io/Tung12012003/pen/xxzyYpa)
+
+[cau19](https://codepen.io/Tung12012003/pen/oNyaEVR)
+
+[cau20](https://codepen.io/Tung12012003/pen/eYKPMmL2)
+
+[cau21](https://codepen.io/Tung12012003/pen/ZERqxYj)
+
+
+#Thực Hành
+
+
+
