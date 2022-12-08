@@ -41,10 +41,10 @@
 
 #Thực Hành
 
-[Bài tập thực hành component](https://codesandbox.io/s/component-tnv2o7)
+[Câu 1](https://codesandbox.io/s/component-tnv2o7)
 
-[Bài tập thực hành props-state](https://codesandbox.io/s/bai-tap-state-props-jbru4z)
+[Câu 2](https://codesandbox.io/s/bai-tap-state-props-jbru4z)
 
-[Bài tập thực hành Dự Án](https://codesandbox.io/s/baitapduan-42dgif)
+[Câu 3](https://codesandbox.io/s/baitapduan-42dgif)
 
 
