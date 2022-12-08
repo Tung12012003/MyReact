@@ -40,5 +40,10 @@
 
 #Thực Hành
 
+[Bài tập thực hành component](https://codesandbox.io/s/component-tnv2o7)
+
+[Bài tập thực hành props-state](https://codesandbox.io/s/bai-tap-state-props-jbru4z)
+
+[Bài tập thực hành Dự Án](https://codesandbox.io/s/baitapduan-42dgif)
 
 
